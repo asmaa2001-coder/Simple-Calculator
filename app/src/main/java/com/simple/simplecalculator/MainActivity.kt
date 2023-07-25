@@ -13,6 +13,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         callViwes()
+        //hi this me
         val sendResult :Intent =Intent().apply {
             action =Intent.ACTION_SEND
             putExtra(Intent.EXTRA_TEXT,screenView.text)
