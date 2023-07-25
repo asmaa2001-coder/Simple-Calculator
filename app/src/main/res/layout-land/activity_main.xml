@@ -147,7 +147,8 @@ tools:context=".MainActivity">
         android:text="MR"
         android:textSize="20dp"
         app:layout_constraintEnd_toStartOf="@+id/button"
-        app:layout_constraintTop_toBottomOf="@+id/button26" />
+        app:layout_constraintTop_toBottomOf="@+id/button26"
+        tools:ignore="TouchTargetSizeCheck,TouchTargetSizeCheck,TouchTargetSizeCheck" />
 
     <Button
         android:id="@+id/button28"
