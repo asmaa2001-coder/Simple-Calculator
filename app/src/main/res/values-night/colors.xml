@@ -7,10 +7,12 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <color name ="BUTTON_COLOR" >#1E7272</color>
-    <color name="view_color" >#81ADAD</color>
-    <color name="back_ground">#053F3F</color>
+    <color name ="BUTTON_COLOR" >#C3C3D3</color>
+    <color name="view_color" >#091451</color>
+    <color name="back_ground">#04081C</color>
     <color name="image_color">#FFFFFF</color>
     <color name="send_color">#B3D5D5</color>
+    <color name="text_color">#FFFFFF</color>
+    <item name="color_back" type="drawable">@drawable/background_color</item>
 
 </resources>

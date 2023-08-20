@@ -15,19 +15,14 @@
     <string name="minus">-</string>
     <string name="plus">+</string>
     <string name="equal">=</string>
-    <string name="muliple">X</string>
-    <string name="devide">/</string>
+    <string name="muliple">x</string>
+    <string name="devide">÷</string>
     <string name="prcntage">%</string>
     <string name="MC">MC</string>
     <string name="MR">MR</string>
     <string name="MP">M+</string>
     <string name="MM">M-</string>
     <string name="C">C</string>
-
-
-
-
-
 
 
 </resources>
